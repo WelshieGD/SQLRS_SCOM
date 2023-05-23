@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Report_WindowsComputersNoPerformanceDataInLast4Hours", "Report_WindowsComputersNoPerformanceDataInLast4Hours\Report_WindowsComputersNoPerformanceDataInLast4Hours.rptproj", "{9EBCB382-CA37-47F4-B2D1-DD5C64CACB74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EBCB382-CA37-47F4-B2D1-DD5C64CACB74}.Debug|Default.ActiveCfg = Debug
+		{9EBCB382-CA37-47F4-B2D1-DD5C64CACB74}.Debug|Default.Build.0 = Debug
+		{9EBCB382-CA37-47F4-B2D1-DD5C64CACB74}.Debug|Default.Deploy.0 = Debug
+		{9EBCB382-CA37-47F4-B2D1-DD5C64CACB74}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{9EBCB382-CA37-47F4-B2D1-DD5C64CACB74}.DebugLocal|Default.Build.0 = DebugLocal
+		{9EBCB382-CA37-47F4-B2D1-DD5C64CACB74}.Release|Default.ActiveCfg = Release
+		{9EBCB382-CA37-47F4-B2D1-DD5C64CACB74}.Release|Default.Build.0 = Release
+		{9EBCB382-CA37-47F4-B2D1-DD5C64CACB74}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CD30A8D-1014-414A-A494-58DE6722EE41}
+	EndGlobalSection
+EndGlobal
